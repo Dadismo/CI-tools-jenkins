@@ -5,7 +5,7 @@
  uat_server = false
  jfrog_server = true
  profile = "default"
- jenkins_ami = "ami-06764c7573edac2d5"
+ jenkins_ami = "ami-0caff75bc3a3c6ac6" 
  jfrog_ami   = "ami-05c524674539e3ba2"
  
  /*role_name = "jenkinsAdminRoleAmi1"
